@@ -1,2 +1,6 @@
-# scorpionxploit-security-toolkit
-A curated collection of safe, thoroughly documented defensive utilities: CIDR subnet calculators, file integrity hashing daemons, and non-intrusive port banner listeners with safety throttles.
+# ScorpionXploit Security Toolkit
+
+> **Deconstructing threats. Demystifying defense.**  
+> Safe, documented local defensive utilities & network audit tools.
+
+Authored by **Aditya Sharma (ScorpionXploit)** for hands-on network security hygiene and host integrity validation.
